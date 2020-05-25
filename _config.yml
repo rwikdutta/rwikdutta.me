@@ -3,8 +3,8 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Hydeout
-tagline:          'A Jekyll theme'
+title:            rwikdutta.me
+tagline:          "Rwik Dutta's Personal Site"
 description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
 url:              https://rwikdutta.github.io
 baseurl:          '/rwikdutta.me'
@@ -15,8 +15,8 @@ baseurl:          '/rwikdutta.me'
                   # sidebar_blog_link below.
 
 author:
-  name:           'Andrew Fong'
-  url:            https://twitter.com/fongandrewc
+  name:           'Rwik Kumar Dutta'
+  url:            https://twitter.com/rkdtweets
 
 paginate:         5
 # paginate_path:    '/page:num'
