@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Rwik Dutta
 tagline:          "Rwik Dutta's Personal Site"
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+description:      'Using AI ( Deep Learning ) to build useful products.'
 url:              https://rwikdutta.github.io
 baseurl:          '/rwikdutta.me'
                   # the optional subpath of your site, e.g. "/blog"
@@ -19,7 +19,7 @@ author:
   url:            https://twitter.com/rkdtweets
 
 paginate:         5
-# paginate_path:    '/page:num'
+paginate_path:    '/blog/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 
 plugins:
@@ -34,7 +34,7 @@ exclude:
   - README.md
   - .gitignore
 
-permalink:        /:year/:month/:day/:title.html
+permalink:        /blog/:year/:month/:day/:title.html
 
 defaults:
   - scope:
@@ -46,7 +46,7 @@ defaults:
 
 # Sidebar link settings
 sidebar_home_link:  true
-# sidebar_blog_link:  '/blog'   # By default, your home page is your blog
+sidebar_blog_link:  '/blog'   # By default, your home page is your blog
                                 # page. If you change your paginate_path,
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.

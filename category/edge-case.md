@@ -1,6 +1,7 @@
 ---
 layout: category
 title: Edge Case
+sidebar_link: false #since _config.yml already contains a setting for this
 ---
 
 Sample category page. You need to create a page for each category.
