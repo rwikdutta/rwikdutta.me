@@ -26,6 +26,13 @@ sidebar_link: true #since _config.yml already contains a setting for this
 - Experience with BI tools Tableau and PowerBI. Experience with advanced features of Excel like PivotTable, PowerPivot, PowerView etc.
 - Experience in C, C++, Java.
 
+## Internship
+- Data Science Intern at Prakshep
+    - Mar '19 - Jun '19
+    - Using Deep Learning to perform edge detection (Holistically Nested Edge Detection) in order to detect boundaries of agricultural plots from satellite imagery
+    - Automate the process of downloading satellite imagery from Landsat 8 and analysis of given agricultural plots
+    - Digitization of Identity Documents using OCR, image pre-processing and then using both logic and automation to extract the information from those cards in a structured format.
+
 
 ## Research Experience
 - Bengali Handwritten Character Classification using Transfer Learning on Deep Convolutional Neural Network. 
@@ -40,18 +47,6 @@ sidebar_link: true #since _config.yml already contains a setting for this
     -  Worked on a solution for Department of Telecom to build a unified platform where they could identify individuals who violated DoT's rule of maximum mobile connection limit for an individual.
 - Winner of Inter college coding competition organized by my alma matter as part of Technical Fest, 2018.
 
-
-## Online Certification
-- Coursera Certification: Machine Learning by Andrew Ng (Stanford University).
-- NPTEL Certification: Introduction to Machine Learning (IIT-Kharagpur)
-- NPTEL Certification: Introduction to Data Analytics (IIT-Madras)
-
-## Internship
-- Data Science Intern at Prakshep
-    - Mar '19 - Jun '19
-    - Using Deep Learning to perform edge detection (Holistically Nested Edge Detection) in order to detect boundaries of agricultural plots from satellite imagery
-    - Automate the process of downloading satellite imagery from Landsat 8 and analysis of given agricultural plots
-    - Digitization of Identity Documents using OCR, image pre-processing and then using both logic and automation to extract the information from those cards in a structured format.
 
 ## Projects
 - Predicting Relevant Articles for Tweets.
@@ -81,6 +76,15 @@ competition
     - [Link](https://www.kaggle.com/rwikdutta/eda-of-complaints-dataset/)
 - Developed the backend (a REST Web Service) using Django for a mini social networking site that we had made for Teacher’s Day (Link)
     - [Link](https://github.com/rwikdutta/elesin2k17)
+
+
+## Online Courses
+- [Fast.ai](fast.ai) by Jeremy Howard
+- Coursera: DeepLearning.ai by Andrew Ng
+- Coursera Certification: Machine Learning by Andrew Ng (Stanford University)
+- NPTEL Certification: Introduction to Machine Learning (IIT-Kharagpur)
+- NPTEL Certification: Introduction to Data Analytics (IIT-Madras)
+
 
 ## Formal Education
 - University: Maulana Abul Kalam Azad University Of Technology 
