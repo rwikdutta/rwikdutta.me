@@ -6,8 +6,8 @@ highlighter:      rouge
 title:            Rwik Dutta
 tagline:          "Rwik Dutta's Personal Site"
 description:      'Using AI ( Deep Learning ) to build useful products.'
-url:              https://rwikdutta.github.io
-baseurl:          '/rwikdutta.me'
+url:              http://rwikdutta.me
+baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep

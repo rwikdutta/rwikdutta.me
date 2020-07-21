@@ -9,7 +9,7 @@ sidebar_link: true #since _config.yml already contains a setting for this
 
 
 ## Summary of Qualifications
-- Close to 1 year of professional experience in Deep Learning and Machine learning working at an AI based startup working primarily in NLP domain. My primary job is to build Deep Learning models to automate business processes in production setting, manage the whole model lifecycle and build custom ETL pipelines according to business needs.
+- 1 year of professional experience in Deep Learning and Machine learning working at an AI based startup working primarily in NLP domain. My primary job is to build Deep Learning models to automate business processes in production setting, manage the whole model lifecycle and build custom ETL pipelines according to business needs.
 - Research experience in Deep Learning and Computer Vision, paper published in LNCS, Springer.
 - Winner in Smart India Hackathon, a national level hackathon organized by MHRD, Govt. Of India.
 - Experienced in Python, PyTorch( Framework of choice for Deep Learning ), REST API Development using Django.
