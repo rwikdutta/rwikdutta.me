@@ -5,7 +5,7 @@ sidebar_link: false #since _config.yml already contains a setting for this
 ---
 
 
-![Profile Image](/rwikdutta.me/assets/images/IMG-20180712-WA0015~2.jpg "Profile Image")
+![Profile Image](/assets/images/IMG-20180712-WA0015~2.jpg "Profile Image")
 
 >Software engineer specializing in Deep Learning, working at an early stage startup ( NLP Domain ). Experienced in using Deep Learning to automate critical business processes in production setting and building custom ETL pipelines.  
 
