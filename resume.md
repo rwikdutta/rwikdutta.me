@@ -5,7 +5,7 @@ sidebar_link: true #since _config.yml already contains a setting for this
 ---
 
 
->Software engineer specializing in Deep Learning, working at an early stage startup ( NLP Domain ). Experienced in using Deep Learning to automate critical business processes in production setting and building custom ETL pipelines.  
+>Machine Learning Engineer specializing in Deep Learning, working at an early stage startup ( NLP Domain ). Experienced in using Deep Learning to automate critical business processes in production setting and building custom ETL pipelines.  
 
 
 ## Summary of Qualifications

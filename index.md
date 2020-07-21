@@ -7,7 +7,7 @@ sidebar_link: false #since _config.yml already contains a setting for this
 
 ![Profile Image](/assets/images/IMG-20180712-WA0015~2.jpg "Profile Image")
 
->Software engineer specializing in Deep Learning, working at an early stage startup ( NLP Domain ). Experienced in using Deep Learning to automate critical business processes in production setting and building custom ETL pipelines.  
+>Machine Learning Engineer specializing in Deep Learning, working at an early stage startup ( NLP Domain ). Experienced in using Deep Learning to automate critical business processes in production setting and building custom ETL pipelines.  
 
 
 Hi, I am Rwik. I hold a Bachelor's Degree in Engineering in Computer Science and Technology and am currently working at an early stage startup based out of Bangalore, India where my primary job is to use Deep Learning ( primarily in NLP domain ) to automate business processes in production settings and build custom ETL pipelines according to business needs. I am experienced in customizing and implementing state-of-the-art models in NLP domain for various business needs.
