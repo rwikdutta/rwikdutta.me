@@ -54,10 +54,12 @@ sidebar_blog_link:  '/blog'   # By default, your home page is your blog
 disqus:
   shortname:      hydeout
 
-google_analytics: UA-100461102-1
+google_analytics: UA-173180302-1
 
 # Used for Hydeout's own Github page. Feel free to remove for your
 # own fork.
 hydeout:
   version:          4.1.0
-  repo:             https://github.com/fongandrew/hydeout
+  github_repo:             https://github.com/rwikdutta
+  linkedin_repo:           https://www.linkedin.com/in/rwikdutta/
+  medium_repo:             https://medium.com/@rwikdutta

@@ -1,10 +1,10 @@
-I"�<blockquote>
+I"�<blockquote>
   <p>Software engineer specializing in Deep Learning, working at an early stage startup ( NLP Domain ). Experienced in using Deep Learning to automate critical business processes in production setting and building custom ETL pipelines.</p>
 </blockquote>
 
 <h2 id="summary-of-qualifications">Summary of Qualifications</h2>
 <ul>
-  <li>Close to 1 year of professional experience in Deep Learning and Machine learning working at an AI based startup working primarily in NLP domain. My primary job is to build Deep Learning models to automate business processes in production setting, manage the whole model lifecycle and build custom ETL pipelines according to business needs.</li>
+  <li>1 year of professional experience in Deep Learning and Machine learning working at an AI based startup working primarily in NLP domain. My primary job is to build Deep Learning models to automate business processes in production setting, manage the whole model lifecycle and build custom ETL pipelines according to business needs.</li>
   <li>Research experience in Deep Learning and Computer Vision, paper published in LNCS, Springer.</li>
   <li>Winner in Smart India Hackathon, a national level hackathon organized by MHRD, Govt. Of India.</li>
   <li>Experienced in Python, PyTorch( Framework of choice for Deep Learning ), REST API Development using Django.</li>
@@ -12,7 +12,7 @@
 
 <h2 id="work-experience">Work Experience</h2>
 <ul>
-  <li>Machine Learning Engineer at <a href="https://www.vaultedge.com/">Vaultedge</a>
+  <li>Machine Learning Engineer at <a href="https://www.vaultedge.com/" target="_blank">Vaultedge</a>
     <ul>
       <li>Duration: Aug ‘19 - Present</li>
       <li>Responsibilities: Automate business processes in production setting using Machine Learning/Deep Learning, manage Machine Learning model lifecycle, build custom ETL pipelines according to business needs.</li>
@@ -26,6 +26,7 @@
   <li>Experience with Web Development Frameworks using Django (Python), including developing Rest Web Services.</li>
   <li>Experience in RDBMS and No-SQL. Have worked with PostgreSQL and MySQL, MongoDB.</li>
   <li>Experience with BI tools Tableau and PowerBI. Experience with advanced features of Excel like PivotTable, PowerPivot, PowerView etc.</li>
+  <li>Experience in working and deploying products on AWS, Azure and GCP.</li>
   <li>Experience in C, C++, Java.</li>
 </ul>
 
@@ -47,7 +48,7 @@
     <ul>
       <li>Presented in 13th IHCI Conference, 2019.</li>
       <li>Proceedings published in LNCS, Springer.</li>
-      <li><a href="https://arxiv.org/abs/1902.11133">ArXiv Link</a>.</li>
+      <li><a href="https://arxiv.org/abs/1902.11133" target="_blank">ArXiv Link</a>.</li>
     </ul>
   </li>
   <li>Review of Deep Learning Techniques for Brain Tumor Segmentation.
@@ -79,7 +80,7 @@
   <li>Tableau Viz Dashboard - Category Wise Import and Export of Commodities by India 14-15 to 17-18.
     <ul>
       <li>Developed an intuitive dashboard using which any one can ingest India’s Export Import Scenario from F.Y. 14-15 to F.Y. 17-18 along different dimensions - Country Wise, Year Wise, Product Category Wise.</li>
-      <li><a href="https://public.tableau.com/profile/rwik.kumar.dutta#!/vizhome/CategoryWiseImportAndExportOfCommoditiesByIndia14-15to17-18/CountryWiseDashboard">Link to Dashboard</a></li>
+      <li><a href="https://public.tableau.com/profile/rwik.kumar.dutta#!/vizhome/CategoryWiseImportAndExportOfCommoditiesByIndia14-15to17-18/CountryWiseDashboard" target="_blank">Link to Dashboard</a></li>
     </ul>
   </li>
   <li>Predict Deforestation from Satellite Imagery
@@ -88,7 +89,7 @@
 NASA’s API to predict whether any activity related to deforestation is going on. Training data was
 obtained from a Kaggle competition. A Resnet-34 CNN model was used as the model.</li>
       <li>The model obtained f2 score of ~0.927.</li>
-      <li><a href="https://github.com/rwikdutta/predict_deforestation">Link</a></li>
+      <li><a href="https://github.com/rwikdutta/predict_deforestation" target="_blank">Link</a></li>
     </ul>
   </li>
   <li>Backend (REST Service) for an anonymized (voice masked) audio confession app and user Q and A
@@ -96,33 +97,33 @@ app
     <ul>
       <li>Developed as part of a social media app for Internal use amongst my college friends</li>
       <li>Backend developed in Django (Python)</li>
-      <li><a href="https://github.com/rwikdutta/audio_confessions_backend">Link</a></li>
+      <li><a href="https://github.com/rwikdutta/audio_confessions_backend" target="_blank">Link</a></li>
     </ul>
   </li>
   <li>EDA of Codevita ( TCS Coding Competition ) 3 years results.
     <ul>
       <li>Analyzed 3 years results of TCS Codevita coding
 competition</li>
-      <li><a href="https://github.com/rwikdutta/codevita_results_analysis">Link</a></li>
+      <li><a href="https://github.com/rwikdutta/codevita_results_analysis" target="_blank">Link</a></li>
     </ul>
   </li>
   <li>Exploratory Data Analysis of Consumer Complaints in Brazil 
   -Dataset: Consumer complaints for the last 5 years registered with Procon ( Consumer Protection Agency ).
     <ul>
-      <li><a href="https://www.kaggle.com/rwikdutta/eda-of-complaints-dataset/">Link</a></li>
+      <li><a href="https://www.kaggle.com/rwikdutta/eda-of-complaints-dataset/" target="_blank">Link</a></li>
     </ul>
   </li>
   <li>Developed the backend (a REST Web Service) using Django for a mini social networking site that we had made for Teacher’s Day (Link)
     <ul>
-      <li><a href="https://github.com/rwikdutta/elesin2k17">Link</a></li>
+      <li><a href="https://github.com/rwikdutta/elesin2k17" target="_blank">Link</a></li>
     </ul>
   </li>
 </ul>
 
 <h2 id="online-courses">Online Courses</h2>
 <ul>
-  <li><a href="fast.ai">Fast.ai</a> by Jeremy Howard</li>
-  <li>Coursera: DeepLearning.ai by Andrew Ng</li>
+  <li><a href="https://fast.ai" target="_blank">fast.ai</a> by Jeremy Howard</li>
+  <li>Coursera: <a href="http://deeplearning.ai" target="_blank">DeepLearning.ai</a> by Andrew Ng</li>
   <li>Coursera Certification: Machine Learning by Andrew Ng (Stanford University)</li>
   <li>NPTEL Certification: Introduction to Machine Learning (IIT-Kharagpur)</li>
   <li>NPTEL Certification: Introduction to Data Analytics (IIT-Madras)</li>
