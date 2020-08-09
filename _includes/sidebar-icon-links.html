@@ -15,6 +15,11 @@
        href="{{ site.hydeout.medium_repo }}">
       {% include svg/medium.svg %}
     </a>
+    <a id="youtube-link" target="_blank"
+       class="icon" title="YouTube" aria-label="Download"
+       href="{{ site.hydeout.youtube_repo }}">
+      {% include svg/youtube.svg %}
+    </a>
   {% endif %}
 
   <a id="subscribe-link"
@@ -22,6 +27,7 @@
      href="{{ site.feed.path | default: 'feed.xml' | relative_url }}">
     {% include svg/feed.svg %}
   </a>
+
 
   {% comment %}
     Check if we have tag or search pages page active before linking to it.
