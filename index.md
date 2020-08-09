@@ -22,6 +22,6 @@ On the technical front, Python is my language of choice and PyTorch is my go-to 
 
 You can find my blog [here](/blog/).
 
-You can also find video tutorials/webinar recordings by me [here](/videos/).
+You can also find video tutorials/webinar recordings by me [here](/videos).
 
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/rwikdutta/){:target="_blank"}, [Medium](https://medium.com/@rwikdutta){:target="_blank"} or email me at [contact@rwikdutta.me](contact@rwikdutta.me). 
